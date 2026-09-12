@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Holcim Simulare Extracție",
+      "hasCanvas": false,
+      "bodyTextLen": 51,
+      "bodyTextHash": "fba602865716578cbba09c520f8b42d4a72f1c079eaa6a1cefa5d43766e946d1",
+      "bodyTextPrefix": "HOLCIM Simulare 3D Silozuri și blocaje la extracție",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Holcim Simulare Extracție",
+      "hasCanvas": false,
+      "bodyTextLen": 51,
+      "bodyTextHash": "fba602865716578cbba09c520f8b42d4a72f1c079eaa6a1cefa5d43766e946d1",
+      "bodyTextPrefix": "HOLCIM Simulare 3D Silozuri și blocaje la extracție",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: canvas disappeared",
+    "mobile: body text collapsed (534 -> 51 chars)"
+  ]
+}

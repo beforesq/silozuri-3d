@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Holcim Simulare Extracție",
+      "hasCanvas": false,
+      "bodyTextLen": 51,
+      "bodyTextHash": "fba602865716578cbba09c520f8b42d4a72f1c079eaa6a1cefa5d43766e946d1",
+      "bodyTextPrefix": "HOLCIM Simulare 3D Silozuri și blocaje la extracție",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Holcim Simulare Extracție",
+      "hasCanvas": true,
+      "bodyTextLen": 534,
+      "bodyTextHash": "4e05ed9967a43083912b8b3a48f7e8cd8f7721dc824190940f938ef86e03c358",
+      "bodyTextPrefix": "HOLCIM · INTERNSHIP Simulare 3D Silozuri și blocaje la extracție",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
